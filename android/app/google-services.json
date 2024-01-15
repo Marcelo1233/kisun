@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "461335962948",
+    "project_id": "kisun-cc398",
+    "storage_bucket": "kisun-cc398.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461335962948:android:83b69f3569ed57da92a311",
+        "android_client_info": {
+          "package_name": "com.flutterflow.finwallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461335962948-6o0h96g2fp23hbdh9pesi2s3r3cf4fo1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMo8PcAEqyPZ1rEsrTwqy0hVBMrsa9vwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461335962948-6o0h96g2fp23hbdh9pesi2s3r3cf4fo1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "461335962948-co0hh7vgfsnpv3miq56nqfgl7mecj7eu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.finwallet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
